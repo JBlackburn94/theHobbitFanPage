@@ -1,3 +1,9 @@
 .col-md-5 img {
     width: 100%;
 }
+
+.flashes {
+    list-style: none;
+    background-color: greenyellow;
+    text-align: center;
+}
